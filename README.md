@@ -72,7 +72,7 @@ The dataset used originates from the [UCI Parkinson’s Disease Dataset](https:/
 
 ---
 
-## 🧪 Example Prediction
+## Example Prediction
 
 **Input Features:**  
 ```
@@ -87,7 +87,7 @@ The Person does not have Parkinsons Disease
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Prerequisites
 - Python 3.8 or higher  
